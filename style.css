@@ -1,0 +1,23 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    margin-top: 0;
+}
+.background-section{
+    background-image: url(/images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    opacity: 0.8;
+    color: white;;
+}
+.section-heading{
+    text-align: center;
+    font-size: 20px;
+}
+.section-para{
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
