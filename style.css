@@ -80,6 +80,7 @@ body{
     width: 120px;
     padding-top: 20px;
     padding-left: 30px;
+    cursor: pointer;
 }
 .amount-200{
     background-color: rgba(255, 99, 71, 0.247);
@@ -90,6 +91,7 @@ body{
     width: 120px;
     padding-top: 20px;
     padding-left: 30px;
+    cursor: pointer;
 }
 .amount-500{
     background-color: rgba(128, 128, 128, 0.116);
@@ -98,6 +100,7 @@ body{
     width: 120px;
     padding-top: 20px;
     padding-left: 30px;
+    cursor: pointer;
 }
 .amount-1000{
     background-color: rgba(128, 128, 128, 0.116);
@@ -106,6 +109,7 @@ body{
     width: 120px;
     padding-top: 20px;
     padding-left: 20px;
+    cursor: pointer;
 }
 .amount-5000{
     background-color: rgba(128, 128, 128, 0.116);
@@ -115,6 +119,7 @@ body{
     margin-right: 300px;
     padding-top: 20px;
     padding-left: 20px;
+    cursor: pointer;
 }
 .donate-sec-other-amount{
     margin-top: 100px;
@@ -220,6 +225,8 @@ body{
     color: grey;
     line-height: 25px;
     margin-top: -10px;
+    text-align: justify;
+    margin-left: 10px;
 }
 .img-2 img{
     width: 75%;
@@ -236,12 +243,14 @@ body{
     margin-right: 45px;
     color: grey;
     line-height: 25px;
+    text-align: justify;
 }
 .paragraph-3{
     width: 30%;
     color: grey;
     margin-left: 60px;
     line-height: 25px;
+    text-align: justify;
 }
 .update-section{
     margin-top: 150px;
